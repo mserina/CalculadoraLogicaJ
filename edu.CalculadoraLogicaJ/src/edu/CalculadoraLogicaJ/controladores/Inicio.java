@@ -6,8 +6,16 @@ import edu.CalculadoraLogicaJ.servicios.MenuInterfaz;
 import edu.CalculadoraLogicaJ.servicios.OperacionImplementacion;
 import edu.CalculadoraLogicaJ.servicios.OperacionInterfaz;
 
+/*
+* Clase principal de la aplicacion
+* msm - 131123
+*/
 public class Inicio{
 	
+	/*
+	 * Metodo para inciar la aplicacion
+	 * msm - 131123
+	 */
 	public static void main (String[] args) {
 		
 		//Creamos las variables

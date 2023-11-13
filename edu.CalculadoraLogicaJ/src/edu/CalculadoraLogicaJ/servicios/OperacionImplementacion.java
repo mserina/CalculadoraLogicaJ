@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class OperacionImplementacion implements OperacionInterfaz {
 	
+	/*
+	 * Clase donde se especifica la logica de los metodos de la interfaz
+	 * msm - 131123
+	 */
 private String DarString (int condicionIfPeticion) {
 		
 		Scanner comunicacionTeclado = new Scanner(System.in);
